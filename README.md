@@ -8,9 +8,9 @@ I'm a Software Engineer, Content Creator, and Community Engineer who helps young
 
 - 😊 Pronouns: He/Him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Nodejs and Express.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, BackEnd Engineer (Intern or Junior level).
+- 🌱 My favourite stacks are MongoDb, Express, React, Nodejs [ MERN ]. However, I also write sql using sequelize ORM and Postgress
+- 😊 I’m looking for help with open source projects, hackathons, remote roles/opportunities.
+- 💼 Job interests: Software Engineer, BackEnd Engineer, Fullstack Engineer.
 - 📫 You can [view my resume](file:///C:/Users/EDWIN/Documents/MY%20PROJECTS/Godsent%20tech%20C.V1.pdf) and contact me by emailing gentlemotivator@gmail.com.
 
 ---
