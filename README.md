@@ -7,7 +7,7 @@ I'm a Software Engineer, Content Creator, and Community Engineer who helps young
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/Him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 Fun fact: I'm a graduate of the AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 My favourite stacks are MongoDb, Express, React, Nodejs [ MERN ]. However, I also write sql using sequelize ORM and Postgress
 - 😊 I’m looking for help with open source projects, hackathons, remote roles/opportunities.
 - 💼 Job interests: Software Engineer, BackEnd Engineer, Fullstack Engineer.
