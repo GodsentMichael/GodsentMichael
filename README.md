@@ -15,5 +15,7 @@ I'm a Software Engineer, Content Creator, and Community Engineer who helps young
 
 ---
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=godsentmichael&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=godsentmichael&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=GodsentMichael&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/GodsentMichael)
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GodsentMichael&langs_count=5&layout=compact&theme=tokyonight)](https://github.com/GodsentMichael?tab=repositories)
+
